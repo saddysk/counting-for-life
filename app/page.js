@@ -58,7 +58,7 @@ export default function Home() {
             Can`t wait anymore to meet you Cutu ⏰ <br /> I`m hella excited to
             meet you after exactly 90 days since we have last met. <br /> I
             don`t know how would I react when I see you for the first time.{" "}
-            <br /> All I know is, these have beem the toughest 30 days of my
+            <br /> All I know is, these have beem the toughest 90 days of my
             life so far fr 🤒
           </p>
           <p className="text-center mt-4">
