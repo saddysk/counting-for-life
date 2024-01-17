@@ -62,8 +62,8 @@ export default function Home() {
             life so far fr 🤒
           </p>
           <p className="text-center mt-4">
-            On a closing note 😛, <br /> I feel, I`m the luckiest person on the
-            planet to have you in my life. <br /> And, I couldn`t be more
+            On a closing note 😛, <br /> I feel, I`m the co-luckiest person on
+            the planet to have you in my life. <br /> And, I couldn`t be more
             grateful ⚘
           </p>
           <p className="mt-4 text-xl text-center">❤️</p>
