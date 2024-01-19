@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const calculateTimeLeft = () => {
-  const difference = +new Date("2024-01-20T04:00:00") - +new Date();
+  const difference = +new Date("2024-01-20T06:00:00") - +new Date();
 
   let timeLeft = {
     days: 0,
@@ -35,9 +35,9 @@ export default function Home() {
   });
 
   return (
-    <main className="flex min-h-screen relative items-center justify-around p-24">
-      <div className="w-1/2">
-        <div className="flex items-center justify-center gap-4 font-semibold text-8xl">
+    <main className="flex flex-col-reverse sm:flex-row min-h-screen relative items-center justify-around p-4 sm:p-24">
+      <div className="sm:w-1/2">
+        <div className="flex items-center justify-center gap-4 font-semibold text-4xl sm:text-8xl">
           <span>{timeLeft.days}</span>
           <span>:</span>
           <span>
@@ -53,7 +53,7 @@ export default function Home() {
           </span>
         </div>
 
-        <div className="text-lg mt-8">
+        <div className="text-sm sm:text-lg mt-8">
           <p className="text-center">
             Can`t wait anymore to meet you Cutu ⏰ <br /> I`m hella excited to
             meet you after exactly 90 days since we have last met. <br /> I
