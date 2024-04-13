@@ -4,7 +4,7 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 const calculateTimeLeft = () => {
-  const difference = +new Date("2024-01-20T06:00:00") - +new Date();
+  const difference = +new Date("2024-04-16T18:00:00") - +new Date();
 
   let timeLeft = {
     days: 0,
