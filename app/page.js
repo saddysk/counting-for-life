@@ -55,16 +55,16 @@ export default function Home() {
 
         <div className="text-sm sm:text-lg mt-8">
           <p className="text-center">
-            Can`t wait anymore to meet you Cutu ⏰ <br /> I`m hella excited to
-            meet you after exactly 90 days since we have last met. <br /> I
-            don`t know how would I react when I see you for the first time.{" "}
-            <br /> All I know is, these have beem the toughest 90 days of my
-            life so far fr 🤒
+            Can`t wait anymore to meet you agaaiiiinnnnn Cutu ⏰ <br /> Iss baar
+            to I`m mooore excited to fuck you. Ooops! shame shame. <br /> I am
+            soo excited tumhe pura Kolkata ghumane ke liye and have a
+            loooooooootttt of fun together 🥳. Can`t wait to meet you soooon
+            babyyy.
           </p>
           <p className="text-center mt-4">
-            On a closing note 😛, <br /> I feel, I`m the co-luckiest person on
-            the planet to have you in my life. <br /> And, I couldn`t be more
-            grateful ⚘
+            On the same closing note 😛, <br /> I feel, I`m the co-luckiest
+            person on the planet to have you in my life. <br /> And, I couldn`t
+            be more grateful ⚘
           </p>
           <p className="mt-4 text-xl text-center">❤️</p>
         </div>
